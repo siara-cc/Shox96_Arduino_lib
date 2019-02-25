@@ -19,7 +19,7 @@ For using Shox96 to store compressed data in Progmem of Arduino Uno and up, see 
 
 ## Screenshots
 
-The example provided with this library allows you to enter a string and see how much compression can be achieved.  In general compression utilities such as `zip`, `gzip` do not compress short strings well and often expand them.  They also use lots of memory which makes them unusable in constrained environments like Arduino.
+The example provided with this library allows you to enter a string and see how much compression can be achieved.  In general, compression utilities such as `zip`, `gzip` do not compress short strings well and often expand them.  They also use lots of memory which makes them unusable in constrained environments like Arduino.
 
 ![](ss_compress_ss.png?raw=true)
 
