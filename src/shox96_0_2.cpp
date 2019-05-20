@@ -21,6 +21,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <ctype.h>
+#include <stdint.h>
 
 #include "shox96_0_2.h"
 
