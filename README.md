@@ -1,4 +1,6 @@
-# Compression and Decompression for Arduino
+# (Deprecated) Compression and Decompression for Arduino
+
+** This library has been deprecated**. Use [Unishox_Arduino_lib](https://github.com/siara-cc/Unishox_Arduino_lib) instead. It has same features and more.
 
 Shox96 is a technique for compressing short strings.  This library provides for Arduino the same API as the desktop version at [Shox96 - Guaranteed compression for Short Strings](https://github.com/siara-cc/Shox96).
 
